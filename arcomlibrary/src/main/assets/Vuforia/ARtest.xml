@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="__nanachi_made_in_abyss" size="500.000000 526.315796" />
+    <ImageTarget name="22196166_555911578074386_5942502613478107928_n" size="500.000000 312.500000" />
+  </Tracking>
+</QCARConfig>

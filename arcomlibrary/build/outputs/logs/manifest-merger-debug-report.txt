@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:4:5-45
+	android:theme
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:5:5-52
+uses-sdk
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:12:19-57
+supports-screens
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:18:9-37
+	android:anyDensity
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:14:9-34
+uses-permission#android.permission.INTERNET
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:21:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:23:22-78
+application
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:25:5-68:19
+	android:label
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:27:9-42
+	android:banner
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:26:9-46
+	android:theme
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:30:9-67
+	android:isGame
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:28:9-30
+activity#com.Com.ARCom.UnityPlayerNativeActivity
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:31:9-48:20
+	android:screenOrientation
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:36:13-51
+	android:label
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:35:13-44
+	android:configChanges
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:33:13-170
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:32:13-67
+meta-data#unityplayer.UnityActivity
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:43:17-57
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:45:13-47:41
+	android:value
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:47:17-38
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:46:17-71
+activity#com.unity3d.player.VideoPlayer
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:49:9-53:61
+	android:screenOrientation
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:52:13-45
+	android:configChanges
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:51:13-170
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:50:13-58
+uses-library#com.ti.s3d
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:59:9-61:40
+	android:required
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:60:13-38
+uses-library#com.osterhoutgroup.api.ext
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:65:9-67:40
+	android:required
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:66:13-54
+uses-feature#0x00020000
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:70:5-54
+	android:glEsVersion
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:70:19-51
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:71:5-73:36
+	android:required
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:73:9-33
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:72:9-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:74:5-76:36
+	android:required
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:76:9-33
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:75:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:77:5-79:36
+	android:required
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:79:9-33
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:78:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:80:5-82:36
+	android:required
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:82:9-33
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:81:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:83:5-85:36
+	android:required
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:85:9-33
+	android:name
+		ADDED from D:\Pechpijit\AndroidProject\TestAddUnityAndroid\arcomlibrary\src\main\AndroidManifest.xml:84:9-72
